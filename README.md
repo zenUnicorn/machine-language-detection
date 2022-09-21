@@ -1,4 +1,4 @@
-# machine-language-detection
+# Machine Language Detection
 Using machine learning for language detection
 
 
@@ -92,3 +92,18 @@ def lang_predict(text):
      lang = le.inverse_transform(lang) 
      print("The langauge is in",lang[0]) 
 ```
+```python
+lang_predict("Today is going to be very busy because I have a lot of things to do.")
+```
+```python
+lang_predict("سيكون اليوم مشغولاً للغاية لأن لدي الكثير من الأشياء لأفعلها.")
+```
+```python
+lang_predict("आज का दिन बहुत व्यस्त रहने वाला है क्योंकि मेरे पास करने के लिए बहुत कुछ है।")
+```
+
+
+
+
+
+
