@@ -30,7 +30,7 @@ df.shape
 ```python
 df["Language"].value_counts()
 ```
-Differentiating Independent from dependent features
+### Differentiating Independent from dependent features
 
 ```python
 X = data["Text"]
