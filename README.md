@@ -119,7 +119,7 @@ lang_predict("आज का दिन बहुत व्यस्त रहन�
 ```
 I will write an article about this project and add the link here.
 
-Happy coding
+Happy coding!
 
 
 
